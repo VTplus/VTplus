@@ -18,9 +18,29 @@ interfaces (BCI), and neurofeedback.
 
 ## ⚕️ VTplus — Medical VR Platform & AI-Assisted Workflows
 
-At [VTplus](https://www.vtplus.eu/en/), we develop medically certified
-VR therapy systems and an integrated virtual reality technology platform
-for clinical and research applications.
+At [VTplus](https://www.vtplus.eu/en/), we develop a modular virtual reality
+platform for clinical applications and empirical research. It combines
+simulation software, interactive environments, hardware integration
+and interfaces to measurement, interaction and stimulation systems.
+
+- **Simulation and control:** Configurable scenarios, stimulus and session
+  control, and therapist or researcher interfaces, with support for VR
+  headsets and projection systems such as PowerWall and CAVE.
+
+- **Multimodal integration:** Synchronised acquisition of interaction,
+  movement, gaze and physiological data, with interfaces for EEG/EMG,
+  brain-computer interfaces, neurofeedback and external stimulation.
+
+- **Adaptive methods:** Research and development in multimodal data fusion,
+  virtual agents, AI-assisted intervention support and biosignal-driven
+  feedback loops.
+
+For clinical applications, development considers medical device requirements
+alongside usability, system integration and technical documentation.
+
+[Platform architecture](https://www.vtplus.eu/en/vtplus-vr-platform/) ·
+[AI-assisted systems and workflows](https://www.vtplus.eu/en/artificial-intelligence/)
+
 
 <!--
 **VTplus/VTplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
