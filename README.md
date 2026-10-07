@@ -16,7 +16,7 @@ to technical documentation, workflows and regulatory knowledge.
 mental health, neurorehabilitation, EEG/EMG integration, brain-computer
 interfaces (BCI), and neurofeedback.
 
-## ⚕️ VTplus — Medical VR Platform & AI-Assisted Workflows
+## ⚕️ VTplus — Medical VR Platform & AI-Assisted Workflows in Healthcare
 
 At [VTplus](https://www.vtplus.eu/en/), we develop a modular virtual reality
 platform for clinical applications and empirical research. It combines
@@ -35,24 +35,9 @@ and interfaces to measurement, interaction and stimulation systems.
   virtual agents, AI-assisted intervention support and biosignal-driven
   feedback loops.
 
-For clinical applications, development considers medical device requirements
-alongside usability, system integration and technical documentation.
+For clinical applications, our development process takes applicable medical
+device requirements into account, alongside usability, system integration
+and technical documentation.
 
 [Platform architecture](https://www.vtplus.eu/en/vtplus-vr-platform/) ·
 [AI-assisted systems and workflows](https://www.vtplus.eu/en/artificial-intelligence/)
-
-
-<!--
-**VTplus/VTplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
